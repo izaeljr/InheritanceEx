@@ -1,0 +1,15 @@
+D:\ws-vs2022\InheritanceEx\InheritanceEx\bin\Debug\net6.0\InheritanceEx.exe
+D:\ws-vs2022\InheritanceEx\InheritanceEx\bin\Debug\net6.0\InheritanceEx.deps.json
+D:\ws-vs2022\InheritanceEx\InheritanceEx\bin\Debug\net6.0\InheritanceEx.runtimeconfig.json
+D:\ws-vs2022\InheritanceEx\InheritanceEx\bin\Debug\net6.0\InheritanceEx.dll
+D:\ws-vs2022\InheritanceEx\InheritanceEx\bin\Debug\net6.0\InheritanceEx.pdb
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.csproj.AssemblyReference.cache
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.AssemblyInfoInputs.cache
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.AssemblyInfo.cs
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.csproj.CoreCompileInputs.cache
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.dll
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\refint\InheritanceEx.dll
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.pdb
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\InheritanceEx.genruntimeconfig.cache
+D:\ws-vs2022\InheritanceEx\InheritanceEx\obj\Debug\net6.0\ref\InheritanceEx.dll
